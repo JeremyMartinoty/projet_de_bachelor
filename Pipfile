@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+keras = "*"
+tensorflow = "*"
+music21 = "*"
+numpy = "*"
+np-utils = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
